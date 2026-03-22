@@ -1,1 +1,6 @@
-{}
+{
+    "root": {
+        "password_hash": "cee3e1af5085ed5973cb49c41571c57259f53f2be3dac53b9eb3c33e613279db",
+        "salt": "049299678a806a7e18e091f4c267263c"
+    }
+}
