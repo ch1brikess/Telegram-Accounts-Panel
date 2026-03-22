@@ -1481,4 +1481,7 @@ if __name__ == '__main__':
     logger.info("[START] TG Manager Pro launching...")
     logger.info(f"[CONFIG] DB: {Config.DATABASE_PATH}")
     logger.info(f"[CONFIG] Sessions: {Config.SESSION_DIR}")
-    app.run(host='0.0.0.0', port=5000, debug=False, threaded=True)
+    
+    # Получаем порт от хостинга или используем дефолтный
+    port = int(os.getenv('PORT', 5000))
+    app.run(host='0.0.0.0', port=port, debug=False, threaded=True)
