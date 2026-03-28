@@ -1,0 +1,124 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Александр",
+      "surname": "Иванов",
+      "description": "Отличный друг и помощник.",
+      "rarity": "common",
+      "limited": false,
+      "points": 10,
+      "image_path": "cards/alexandr_ivanov.png"
+    },
+    {
+      "id": 2,
+      "name": "Мария",
+      "surname": "Петрова",
+      "description": "Талантливая ученица.",
+      "rarity": "common",
+      "limited": false,
+      "points": 10,
+      "image_path": "cards/maria_petrova.png"
+    },
+    {
+      "id": 3,
+      "name": "Дмитрий",
+      "surname": "Сидоров",
+      "description": "Спортсмен класса.",
+      "rarity": "rare",
+      "limited": false,
+      "points": 50,
+      "image_path": "cards/dmitry_sidorov.png"
+    },
+    {
+      "id": 4,
+      "name": "Екатерина",
+      "surname": "Смирнова",
+      "description": "Душка класса.",
+      "rarity": "rare",
+      "limited": false,
+      "points": 50,
+      "image_path": "cards/ekaterina_smirnova.png"
+    },
+    {
+      "id": 5,
+      "name": "Михаил",
+      "surname": "Козлов",
+      "description": "Гений математики.",
+      "rarity": "epic",
+      "limited": false,
+      "points": 200,
+      "image_path": "cards/mikhail_kozlov.png"
+    },
+    {
+      "id": 6,
+      "name": "Анна",
+      "surname": "Николаева",
+      "description": "Музыкальное дарование.",
+      "rarity": "epic",
+      "limited": false,
+      "points": 200,
+      "image_path": "cards/anna_nikolaeva.png"
+    },
+    {
+      "id": 7,
+      "name": "Иван",
+      "surname": "Морозов",
+      "description": "Легенда школы.",
+      "rarity": "legendary",
+      "limited": false,
+      "points": 1000,
+      "image_path": "cards/ivan_morozov.png"
+    },
+    {
+      "id": 8,
+      "name": "София",
+      "surname": "Волкова",
+      "description": "Королева творчества.",
+      "rarity": "legendary",
+      "limited": false,
+      "points": 1000,
+      "image_path": "cards/sofia_volkov.png"
+    },
+    {
+      "id": 9,
+      "name": "Артём",
+      "surname": "Зайцев",
+      "description": "Мифический одноклассник.",
+      "rarity": "mythic",
+      "limited": false,
+      "points": 5000,
+      "image_path": "cards/artem_zaitsev.png"
+    },
+    {
+      "id": 10,
+      "name": "Полина",
+      "surname": "Лебедева",
+      "description": "Таинственная красавица.",
+      "rarity": "mythic",
+      "limited": false,
+      "points": 5000,
+      "image_path": "cards/polina_lebedeva.png"
+    },
+    {
+      "id": 11,
+      "name": "Новогодний",
+      "surname": "Дедмороз",
+      "description": "Специальная новогодняя карта!",
+      "rarity": "legendary",
+      "limited": true,
+      "points": 1500,
+      "image_path": "cards/dedmoroz.png"
+    },
+    {
+      "id": 12,
+      "name": "Снегурочка",
+      "surname": "Снежная",
+      "description": "Специальная новогодняя карта!",
+      "rarity": "mythic",
+      "limited": true,
+      "points": 7500,
+      "image_path": "cards/snegurochka.png"
+    }
+  ]
+}
